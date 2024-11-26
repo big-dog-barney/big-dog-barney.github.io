@@ -6,7 +6,7 @@ keywords: "Barney, Dog, Adoption, Foster"
 email: "shraeya[dot]iyer[at]gmail[dot]com"
 
 # Site config
-baseurl: "/adoptbarney"
+baseurl: ""
 highlighter: rouge
 sass:
   sass_dir: assets/scss
