@@ -27,4 +27,4 @@ images:
 
 ---
 <p>
-i would love to meet you! please send an email to shraeya[dot]iyer[at]gmail[dot]com with your name, general location (city, state), and a little background on your experience with dogs to set something up. i’m currently located in seattle, washington, but if you’re interested and don’t live near me, please contact us anyways and we’ll see what we can work out. <p>
+i would love to meet you! please send an email to shraeya[dot]iyer[at]gmail[dot]com and anooraman[at]gmail[dot]com with your name, general location (city, state), and a little background on your experience with dogs to set something up. i’m currently located in seattle, washington, but if you’re interested and don’t live near me, please contact us anyways and we’ll see what we can work out. <p>
